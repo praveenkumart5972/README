@@ -212,7 +212,6 @@ Reliable firmware projects & continuous learning
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9C0,50:123B5D,100:090D1A&height=100&section=footer" width="100%" alt="Decorative animated footer banner" />
 
-![Alt text](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 </div>
 
 
