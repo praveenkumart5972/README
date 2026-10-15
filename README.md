@@ -36,6 +36,8 @@ Hi, I'm **Praveen Kumar T**, a BE/B.Tech graduate and fresher building my career
 > I’m at the beginning of my professional journey, so this profile will grow alongside my projects, experiments, and learning.
 
 ---
+![Alt text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 
 ## ⚡ Technical Toolkit
 
